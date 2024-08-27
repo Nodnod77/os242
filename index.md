@@ -4,7 +4,7 @@ __Hello world !__
 
 Some links :
 
-({{site.baseurl}})
+[HOME]({{site.baseurl}})
 
 ------------------------------------------------
 Donia Sakji 
