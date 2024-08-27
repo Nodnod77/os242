@@ -2,7 +2,9 @@
 
 __Hello world !__
 
+Some links :
 
+({{site.baseurl}})
 
 ------------------------------------------------
 Donia Sakji 
