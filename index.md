@@ -3,8 +3,8 @@
 __Hello world !__
 
 Some links :
-You can find the source code here [GitHub]({{ site.githublink }})
-[HOME]({{site.githubpagelink}})
+
+[HOME](https://nodnod77.github.io/os242/) [GitHub](https://github.com/Nodnod77)
 
 ------------------------------------------------
 Donia Sakji 
