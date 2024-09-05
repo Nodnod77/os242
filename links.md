@@ -4,7 +4,7 @@ permalink: LINKS/
 
 ## [HOME](../)
 
-# LINKS
+➡️  SOME USEFUL LINKS :
 
 * [Operating Systems](https://os.vlsm.org/){:target="_blank"} ---
   This site contains links to lecture materials, exam questions, and laboratory materials.
@@ -21,5 +21,5 @@ These commands will help you list PCI devices, view information about your CPU, 
 Quick reference and showcase to use Markdown
 <br>
 <br>
-#### REV: Thursday 05 Sep 2024 21:23
-<hr
+#### 📍 REV: Thursday 05 Sep 2024 21:23
+
