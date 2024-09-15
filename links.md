@@ -27,8 +27,8 @@ Quick reference and showcase to use Markdown
 
 ### Week02 
 * [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity) --- Great strating point on how to protect your data and information from attacks. Beginner friendly
-* [Complete set to learn basic c programmation] (https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) --- Youtube videos to learn the basic of c language. It's a quite complete playlist,videos are shorts and separated according to the subject you're interested in. Beginner friendly.
-* [ Difference between private and public key ] (https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/) --- A short GeeksForGeeks article who explain the difference and detail about public and private keys. Short clear and updated. 
+* [Complete set to learn basic c programmation](https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) --- Youtube videos to learn the basic of c language. It's a quite complete playlist,videos are shorts and separated according to the subject you're interested in. Beginner friendly.
+* [ Difference between private and public key ](https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/) --- A short GeeksForGeeks article who explain the difference and detail about public and private keys. Short clear and updated. 
 <br>
 <br>
 #### 📍 REV: Thursday 05 Sep 2024 21:23
