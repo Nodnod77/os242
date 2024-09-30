@@ -33,6 +33,12 @@ Quick reference and showcase to use Markdown
 * [Linux Disk Partitioning Basics](https://www.digitalocean.com/community/tutorials/how-to-partition-a-disk-in-linux) --- A comprehensive guide on how to partition disks in Linux, including practical examples and commands.
 * [A Beginner's Guide to Disk Partitioning](https://www.howtogeek.com/723198/a-beginners-guide-to-disk-partitioning-in-linux/) --- An article providing a clear overview of the concepts and tools used for disk partitioning.
 * [Partitioning a Disk in Linux](https://www.tecmint.com/partition-disk-using-gparted-in-linux/) --- A detailed tutorial on using GParted, a popular tool for disk partitioning in Linux. 
+---
+
+### Week04
+* [Introduction aux processus Linux](https://www.digitalocean.com/community/tutorials/understanding-the-linux-process-model) --- Un guide complet sur les processus Linux, leur fonctionnement et leur gestion.
+* [Gestion des utilisateurs et des groupes sous Linux](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/) --- Tutoriel détaillé sur la création et la gestion des utilisateurs et des groupes dans un système Linux.
+
 <br>
 <br>
 #### 📍 REV: Sunday 24 Sep 2024 20:54
