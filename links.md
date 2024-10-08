@@ -38,7 +38,14 @@ Quick reference and showcase to use Markdown
 ### Week04
 * [Introduction to Linux Processes](https://www.digitalocean.com/community/tutorials/understanding-the-linux-process-model) --- A comprehensive guide on Linux processes, how they work, and how to manage them.
 * [Managing Users and Groups in Linux](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/) --- Detailed tutorial on creating and managing users and groups in a Linux system.
+
+### Week05
+* [Virtual Memory in Operating Systems](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) --- Overview of the virtual memory concept, how it works, and its importance in operating systems.
+* [Demand Paging](https://www.studytonight.com/operating-system/demand-paging) --- Detailed explanation of demand paging, with examples and diagrams.
+* [Copy-on-Write](https://www.baeldung.com/cs/copy-on-write) --- Introduction to the concept of Copy-on-Write in operating systems and how it optimizes memory usage.
+* [Kernel Memory Allocation](https://www.linux.com/training-tutorials/memory-management-linux-kernel/) --- Insight into how kernel memory is allocated in the Linux operating system.
 <br>
 <br>
-#### 📍 REV: Sunday 24 Sep 2024 20:54
+#### 📍 REV: Tuesday 08 oct 20:14 2024
+
 
