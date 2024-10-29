@@ -44,6 +44,11 @@ Quick reference and showcase to use Markdown
 * [Demand Paging](https://www.studytonight.com/operating-system/demand-paging) --- Detailed explanation of demand paging, with examples and diagrams.
 * [Copy-on-Write](https://www.baeldung.com/cs/copy-on-write) --- Introduction to the concept of Copy-on-Write in operating systems and how it optimizes memory usage.
 * [Kernel Memory Allocation](https://www.linux.com/training-tutorials/memory-management-linux-kernel/) --- Insight into how kernel memory is allocated in the Linux operating system.
+
+### Week06
+* [mmap(2) - Linux manual page](https://man7.org/linux/man-pages/man2/mmap.2.html) --- Detailed Linux manual page on the `mmap` system call, explaining its functionality, parameters, and usage.
+* [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) --- Guide on using `malloc`, `calloc`, `free`, and `realloc` in C for dynamic memory allocation.
+
 <br>
 <br>
 #### 📍 REV: Tuesday 08 oct 20:14 2024
