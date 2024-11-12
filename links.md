@@ -49,8 +49,20 @@ Quick reference and showcase to use Markdown
 * [mmap(2) - Linux manual page](https://man7.org/linux/man-pages/man2/mmap.2.html) --- Detailed Linux manual page on the `mmap` system call, explaining its functionality, parameters, and usage.
 * [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) --- Guide on using `malloc`, `calloc`, `free`, and `realloc` in C for dynamic memory allocation.
 
+### Week07
+* [Process Scheduling in Linux](https://www.geeksforgeeks.org/process-scheduling-in-linux/) --- Explanation of process scheduling in Linux, including various scheduling algorithms and how the CPU time is allocated to processes.
+* [Time and Process Management in C](https://www.geeksforgeeks.org/clock-gettime-function-in-c/) --- Guide on using the `clock_gettime()` function in C for measuring process execution time and managing time-based operations.
+* [Linux Process Management](https://www.tldp.org/LDP/lpg/2.4/lpg-2.4.html#AEN3988) --- A detailed explanation of process management in Linux, covering concepts like process creation, execution, scheduling, and termination.
+
+### Week08
+* [GCC - GNU Compiler Collection](https://gcc.gnu.org/) --- Official GCC website, providing documentation, download links, and detailed information about the GNU Compiler Collection.
+* [The GNU Build System](https://www.gnu.org/software/automake/manual/automake.html) --- Detailed documentation on the GNU build system (including `autoconf`, `automake`, and `libtool`), which is commonly used for configuring and building open-source software.
+* [Linux From Scratch (LFS)](http://www.linuxfromscratch.org/) --- Comprehensive guide for building a custom Linux system from the ground up, useful for understanding the process of configuring and compiling various tools like GCC.
+
+
+
 <br>
 <br>
-#### 📍 REV: Tuesday 29 oct 22:00 2024
+#### 📍 REV: Tuesday 12 nov 18:58 2024
 
 
