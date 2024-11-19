@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tips for Future OS Participants"
-permalink: /TIPS/
+permalink: TIPS/
 ---
 
 # Tips for Future OS Participants
