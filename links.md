@@ -59,6 +59,9 @@ Quick reference and showcase to use Markdown
 * [The GNU Build System](https://www.gnu.org/software/automake/manual/automake.html) --- Detailed documentation on the GNU build system (including `autoconf`, `automake`, and `libtool`), which is commonly used for configuring and building open-source software.
 * [Linux From Scratch (LFS)](http://www.linuxfromscratch.org/) --- Comprehensive guide for building a custom Linux system from the ground up, useful for understanding the process of configuring and compiling various tools like GCC.
 
+### Week09  
+* [Introduction to Makefiles](https://www.gnu.org/software/make/manual/make.html) --- Official GNU Make manual, providing a comprehensive guide to writing Makefiles, which automate the process of compiling and building software projects.  
+* [CMake Documentation](https://cmake.org/documentation/) --- Official documentation for CMake, a cross-platform build-system generator, explaining how to configure and generate build files for different environments.
 
 
 <br>
