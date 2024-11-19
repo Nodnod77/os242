@@ -1,4 +1,4 @@
----
+[LINKS](LINKS/){:target="_blank"}---
 ---
 
 ### Welcome to Nodnod77 Page ! 🚪

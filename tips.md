@@ -1,5 +1,5 @@
 ---
-permalink: LINKS/
+permalink: TIPS/
 ---
 
 # Tips for Future OS Participants
