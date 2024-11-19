@@ -1,7 +1,5 @@
 ---
-layout: page
-title: "Tips for Future OS Participants"
-permalink: TIPS/
+permalink: LINKS/
 ---
 
 # Tips for Future OS Participants
@@ -26,4 +24,5 @@ permalink: TIPS/
 
 Good luck!
 
----
+<br>
+<br>
