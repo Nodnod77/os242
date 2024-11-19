@@ -1,4 +1,3 @@
-[LINKS](LINKS/){:target="_blank"}---
 ---
 
 ### Welcome to Nodnod77 Page ! 🚪
@@ -10,7 +9,7 @@ Here is the page related to Operation systems 2024-2
 
 
 
-🏠[HOME](https://nodnod77.github.io/os242/) --- 🐈‍⬛[GitHub](https://github.com/Nodnod77) --- 📂[My LOG](TXT/mylog.txt){:target="_blank"} --- 🧷[LINKS](LINKS/){:target="_blank"} -- 🐼 [TIPS] (TIPS/){:target="_blank"}
+🏠[HOME](https://nodnod77.github.io/os242/) --- 🐈‍⬛[GitHub](https://github.com/Nodnod77) --- 📂[My LOG](TXT/mylog.txt){:target="_blank"} --- 🧷[LINKS](LINKS/){:target="_blank"} -- 🐼 [TIPS](TIPS/){:target="_blank"}
 
 ------------------------------------------------
 Donia Sakji 
